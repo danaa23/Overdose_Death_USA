@@ -16,6 +16,7 @@ Faced with this sobering reality, the U.S. government has turned to data and ana
 - `README.md`: Project overview and instructions.
 
 ## Getting Started
+https://colab.research.google.com/drive/1veNKOxzmQb6tf645iwXYOo4OzSoG0uBC?usp=chrome_ntp#scrollTo=KgXF58zodxEO
 
 ### Prerequisites
 
